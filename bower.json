@@ -1,0 +1,21 @@
+{
+  "name": "webutvikleroppgave",
+  "description": "Webutvikleroppgave fra Ludens Reklamebyrå",
+  "main": "index.html",
+  "authors": [
+    "Øyvind Hermansen <oyvindher@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ludens-reklamebyra/webutvikleroppgave",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
