@@ -34,4 +34,4 @@ $ npm run dev
 # [Start oppgaven](oppgave.md)
 
 ### Når oppgaven er utført
-Send lenke fra deres Fork til kristian@ludensreklame.no
+Send lenke fra deres fork eller zippet mappe til kristian@ludensreklame.no
