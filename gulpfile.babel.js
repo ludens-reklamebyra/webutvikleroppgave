@@ -68,7 +68,7 @@ gulp.task('sass', () => {
 })
 
 gulp.task('watch', () => {
-  livereload.listen()
+  //livereload.listen()
   gulp.watch('./resources/scss/**/*.scss', ['sass'])
   gulp.watch('./resources/js/**/*.js', ['bundle'])
 })
