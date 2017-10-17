@@ -1,37 +1,20 @@
-# webutvikleroppgave
+# Oppgave for frontend-utvikler
 
-### Teknologien
-Teknologien som blir brukt i dette prosjektoppsettet er noe Ludens bruker på en daglig basis. Det inneholder:
-- GulpJS som taskrunner
-- SCSS
-- støtte for ES6/ES7 (EcmaScript-versjon)
+Bruk `create-react-app` for å implementere dette skjemaet i `React`:
 
-### Målet med opppgaven
-Målet med oppgaven er å få en innsikt i hvordan du løser reelle utfordringer knyttet til nettsider.
+![Skjema](http://batcave.no/oyvind/gifs/skjema.gif)
 
-### Installasjon
-Oppgaven forutsetter at du har NodeJS installert. (Kan lastes ned her: [https://nodejs.org/en/]())
+#### Spesifikasjoner:
 
-Globale npm-moduler du trenger for oppgaven er `gulpJS`, som kan installeres med kommandoen `$ npm install -g gulp`.
+- Skjemaet skal ikke poste noen faktisk request, men logge alle feltverdiene til konsollen
+- Styling kan gjøres enten med SCSS/CSS eller CSS in JS (`styled-components` for eksempel)
+- Bruk gjerne Flow/TypeScript
+- Font: Titillium Web
 
-1. Fork prosjektet.
-2. Klon prosjektet lokalt på din maskin.
-3. Utfør kommandoene nedenfor:
+## Ressurser
 
-```
-$ cd webutvikleroppgave
-$ npm install
-```
+#### create-react-app
+https://github.com/facebookincubator/create-react-app
 
-Hvis noe går galt under installasjon, send en e-post til oyvind@ludensreklame.no
-
-### Start kompilering
-For å starte kompileringen av JavaScript og SCSS, utfør kommandoen:
-```
-$ npm run dev
-```
-
-# [Start oppgaven](oppgave.md)
-
-### Når oppgaven er utført
-Send lenke fra deres fork eller zippet mappe til kristian@ludensreklame.no
+#### Font
+https://fonts.google.com/specimen/Titillium+Web
