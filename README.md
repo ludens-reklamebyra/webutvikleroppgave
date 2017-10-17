@@ -7,9 +7,8 @@ Bruk `create-react-app` for å implementere dette skjemaet i `React`:
 #### Spesifikasjoner:
 
 - Skjemaet skal ikke poste noen faktisk request, men logge alle feltverdiene til konsollen
-- Styling kan gjøres enten med SCSS/CSS eller CSS in JS (`styled-components` for eksempel)
-- Bruk gjerne Flow/TypeScript
-- Font: Titillium Web
+- Styling kan gjøres med SCSS/CSS eller CSS in JS (`styled-components` for eksempel)
+- Flow/TypeScript er bonuspoeng!
 
 ## Ressurser
 
