@@ -6,7 +6,7 @@ Bruk `create-react-app` for å implementere dette skjemaet i `React`:
 
 #### Spesifikasjoner:
 
-- Når skjemaet poster skal knappen endres fra `SEND FORESPØRSEL` til `SENDER...` (Bruk for eksempel `setTimeout` for simulere responstid
+- Når skjemaet poster skal knappen endres fra `SEND FORESPØRSEL` til `SENDER...` (Bruk for eksempel `setTimeout` for simulere responstid)
 - Skjemaet skal ikke poste noen faktisk http-request, men logge alle feltverdiene til konsollen
 - Styling kan gjøres med SCSS/CSS eller CSS in JS (`styled-components` for eksempel)
 - Flow/TypeScript er bonuspoeng!
